@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://profile.intra.42.fr/" target="_blank"><img src="https://img.shields.io/badge/42Seoul-FFFFFF?style=flat&logo=appveyor&logoColor=000000"/></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaSeongYeon&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaSeongYeon&show_icons=true&theme=vue)
