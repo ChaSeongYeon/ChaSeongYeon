@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🏫 Groups
 
-<a href="https://profile.intra.42.fr/" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/> ![khu](https://img.shields.io/badge/imgSub0401%20(1).svg?logo=data:image/svg+xml;base64,<base64_image>&style=for-the-badge)
+<a href="https://profile.intra.42.fr/" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/> ![khu](https://img.shields.io/badge/imgSub0401%20(1).svg?logo=data:image/svg+xml;base64,file:///Users/seocha/Downloads/imgSub0401%20(1).svg=&style=for-the-badge)
 
 📔 Main Language
 
