@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <a href="https://profile.intra.42.fr/" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/>
 
-🏡 SNS
+🎶 SNS
 
 <a href="https://www.notion.so/42-Seoul-Inner-Circle-d1d62b47cd3443b28e3eec80311a297d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
  
