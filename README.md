@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 🏫 Groups
 
-<a href="https://profile.intra.42.fr/" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/>
+<a href="https://profile.intra.42.fr/" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/> - End
 
 💕 SNS
 
